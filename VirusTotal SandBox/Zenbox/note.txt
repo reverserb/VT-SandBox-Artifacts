@@ -1,0 +1,2 @@
+Along with the attached files, there was a file vex2_run_task.exe.
+It was not possible to copy it, since it was accessed once, and its weight exceeded 10 MB (there was no time).

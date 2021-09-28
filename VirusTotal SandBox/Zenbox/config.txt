@@ -1,0 +1,12 @@
+os=win7x64
+type=exe
+md5=a704dfeaf68659bcdb43b5c2ac38d1b6
+user_ext=
+file_ext=
+argument=
+url=
+timeout=120
+enable_mem_dump=1
+options=2566
+smb=vex2_share_2
+run_as_service=0
