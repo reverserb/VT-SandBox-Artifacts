@@ -1,4 +1,4 @@
-("cis.exe","cmdvirth.exe","alive.exe","filewatcherservice.exe","ngvmsvc.exe","sandboxierpcss.exe","analyzer.exe", \
+                  "cis.exe","cmdvirth.exe","alive.exe","filewatcherservice.exe","ngvmsvc.exe","sandboxierpcss.exe","analyzer.exe", \
                   "fortitracer.exe","nsverctl.exe","sbiectrl.exe","angar2.exe","goatcasper.exe","ollydbg.exe","sbiesvc.exe", \
                   "apimonitor.exe", "GoatClientApp.exe","peid.exe","scanhost.exe","apispy.exe","hiew32.exe","perl.exe","scktool.exe", \
                   "apispy32.exe","hookanaapp.exe","petools.exe","sdclt.exe","asura.exe","hookexplorer.exe","pexplorer.exe", \
